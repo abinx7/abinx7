@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 [![telegram badge](https://img.shields.io/badge/★UrvashiTheaters-30302f?style=for-the-badge)](https://t.me/UrvashiTheaters)
 
 
-![GitHub followers](https://img.shields.io/github/followers/Sreejithmadmax?style=social)      ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com//PowerOfTG)
+![GitHub followers](https://img.shields.io/github/followers/PowerOfTG?style=social)      ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com//PowerOfTG)
 
 - 🌚 <b>nσσв</b>
 - 📚 <b>trчíng 2 lєαrn</b> 🚶🏻‍♂️🚶🏻‍♂️
