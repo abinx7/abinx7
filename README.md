@@ -92,4 +92,4 @@ You can click the Preview link to take a look at your changes.
 <a href="https://ko-fi.com/PowerOfTG" target="_blank"><img height="40" src="https://az743702.vo.msecnd.net/cdn/kofi3.png"/></a>
 
 ## 📊 Stats
-<a href="https://github.com/AnjanaMadu"><img src="https://github.com/AnjanaMadu/AnjanaMadu/raw/main/github-metrics.svg" alt="Metrics"></a>
+<a href="https://github.com/PowerOfTG"><img src="https://github.com/PowerOfTG/PowerOfTG/raw/main/github-metrics.svg" alt="Metrics"></a>
