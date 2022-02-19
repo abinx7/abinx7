@@ -1,5 +1,4 @@
- Hi there 👋
-
+ 
 <h1 align="center">Hi 👋, I'm Power Of TG🇮🇳</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Power+Of+TG+GitHub)](https://git.io/typing-svg)
