@@ -40,18 +40,18 @@ You can click the Preview link to take a look at your changes.
 
 ### You Can Contact Me At:
 
-[<img align="left" alt="PowerOfTG.github.io/PowerOfTG/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="djeagler | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="PowerOfTG | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/telegram.svg" />][telegram]
-[<img align="left" alt="sree18522120824 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="PowerOfTG.github.io/PowerOfTG/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
+[<img align="left" alt="djeagler | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
+[<img align="left" alt="PowerOfTG | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/telegram.svg" />]
+[<img align="left" alt="sree18522120824 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 
 <br />
 
 ### Languages and Tools That I Love To Use:
 
-[<img align="left" alt="go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />][mainprofile]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][mainprofile]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][mainprofile]
+[<img align="left" alt="go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][mainprofile]
 [<img align="left" alt="csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][mainprofile]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][mainprofile]
@@ -70,6 +70,4 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 ---
-
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=PowerOfTG&show_icons=true&theme=dark" />
 
