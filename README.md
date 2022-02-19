@@ -48,6 +48,10 @@ You can click the Preview link to take a look at your changes.
 
 ![PowerOfTG's github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PowerOfTG&layout=compact&theme=radical)
 
+### Programming Language ⚙️
+![Python](https://telegra.ph/file/5080f69ba361f95b463e6.jpg)
+
+
 ### You Can Contact Me At:
 
 <img align="left" alt="PowerOfTG.github.io/PowerOfTG/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
