@@ -17,7 +17,6 @@ You can click the Preview link to take a look at your changes.
 - 🥅 My Goal is To Travel World, I am in ❤️ With Travelling
 - ⚡ Self Written Quote: Life Is All About __Programming__
 <br />
-
 ##  💹 Contribution Graph
 
 <a href="https://github.com/PowerOfTG"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PowerOfTG&bg_color=20222b&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
