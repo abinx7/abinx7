@@ -44,6 +44,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github-readme-stats.vercel.app/api?username=PowerOfTG&show_icons=true&title_color=00AEDDFF&text_color=FCFCFC&icon_color=00AEDDFF&bg_color=151515&border_color=FCFCFC&border_radius=8&include_all_commits=true&count_private=true"/>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=PowerOfTG&background=151515&currStreakNum=FFFFFF&border=FFFFFF&stroke=FFFFFF&ring=00AEDD&fire=00AEDD&sideNums=FFFFFF&currStreakLabel=00AEDD&sideLabels=FFFFFF&dates=FFFFFF"/>
 </p>
+![PowerOfTG's github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PowerOfTG&layout=compact&theme=radical)
 
 ### You Can Contact Me At:
 
