@@ -18,6 +18,11 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Self Written Quote: Life Is All About __Programming__
 <br />
 
+##  💹 Contribution Graph
+
+<a href="https://github.com/PowerOfTG"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PowerOfTG&bg_color=20222b&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
 [![telegram badge](https://img.shields.io/badge/★UrvashiTheaters-30302f?style=for-the-badge)](https://t.me/UrvashiTheaters)
 
 
