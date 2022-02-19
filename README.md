@@ -93,6 +93,3 @@ You can click the Preview link to take a look at your changes.
 
 ## 💰 Support Me
 <a href="https://ko-fi.com/PowerOfTG" target="_blank"><img height="40" src="https://az743702.vo.msecnd.net/cdn/kofi3.png"/></a>
-
-## 📊 Stats
-<a href="https://github.com/PowerOfTG"><img src="https://github.com/PowerOfTG/PowerOfTG/raw/main/github-metrics.svg" alt="Metrics"></a>
