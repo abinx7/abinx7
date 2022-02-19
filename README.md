@@ -40,10 +40,10 @@ You can click the Preview link to take a look at your changes.
 
 ### You Can Contact Me At:
 
-[<img align="left" alt="PowerOfTG.github.io/PowerOfTG/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
-[<img align="left" alt="djeagler | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
-[<img align="left" alt="PowerOfTG | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/telegram.svg" />]
-[<img align="left" alt="sree18522120824 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
+<img align="left" alt="PowerOfTG.github.io/PowerOfTG/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<img align="left" alt="djeagler | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<img align="left" alt="PowerOfTG | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/telegram.svg" />
+<img align="left" alt="sree18522120824 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 <br />
 
