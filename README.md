@@ -1,9 +1,9 @@
  
-<h1 align="center">Hi 👋, I'm Power Of TG🇮🇳</h1>
+<h1 align="center">Hi 👋, I'm Abin_x_7🇮🇳</h1>
 <p align="center">
 	<img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Power+Of+TG+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Abin_x_7+GitHub)](https://git.io/typing-svg)
 <!---
 Sreejithmadmax/Sreejithmadmax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
