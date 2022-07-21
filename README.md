@@ -5,16 +5,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Abin_x_7+GitHub)](https://git.io/typing-svg)
 <!---
-Sreejithmadmax/Sreejithmadmax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <p><img aling="center"src="https://steamuserimages-a.akamaihd.net/ugc/2431257904741262239/5224F69217562A3C070E381FE3DAC295BCF5C9A8/"/></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PowerOfTG&theme=onedark&cache_seconds=86400" alt="PowerOfTG" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abin_x_7&theme=onedark&cache_seconds=86400" alt="Abin_x_7" /></a> </p>
 
 
 ## A Guy Whos Not Perfect But Working Hard For His Dreams
-- 🙈 Animal Lover!
+- 🌸 Football Lover!
 - 👯 Thinking To Start Contributing in Open Source
 - ⚽️ I am currently learning everything 🤣
 - 🥅 My Goal is To Travel World, I am in ❤️ With Travelling
@@ -23,13 +23,13 @@ You can click the Preview link to take a look at your changes.
 
 ## 💹 Contribution Graph
 
-<a href="https://github.com/PowerOfTG"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PowerOfTG&bg_color=20222b&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/abinx7"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abin_x_7&bg_color=20222b&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
-[![telegram badge](https://img.shields.io/badge/★UrvashiTheaters-30302f?style=for-the-badge)](https://t.me/UrvashiTheaters)
+[![telegram badge](https://img.shields.io/badge/★Movieshub-30302f?style=for-the-badge)](https://t.me/UrvashiTheaters)
 
 
-![GitHub followers](https://img.shields.io/github/followers/PowerOfTG?style=social)      ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com//PowerOfTG)
+![GitHub followers](https://img.shields.io/github/followers/abinx7?style=social)      ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com//abinx7)
 
 - 🌚 <b>nσσв</b>
 - 📚 <b>trчíng 2 lєαrn</b> 🚶🏻‍♂️🚶🏻‍♂️
@@ -39,17 +39,17 @@ You can click the Preview link to take a look at your changes.
 <p><img aling="center"src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif"/></p>
 
 ## Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{PowerOfTG}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{abinx7}/count.svg)
  
 -  ⚡ **Follow me for more**
  
  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=PowerOfTG&show_icons=true&title_color=00AEDDFF&text_color=FCFCFC&icon_color=00AEDDFF&bg_color=151515&border_color=FCFCFC&border_radius=8&include_all_commits=true&count_private=true"/>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=PowerOfTG&background=151515&currStreakNum=FFFFFF&border=FFFFFF&stroke=FFFFFF&ring=00AEDD&fire=00AEDD&sideNums=FFFFFF&currStreakLabel=00AEDD&sideLabels=FFFFFF&dates=FFFFFF"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=abinx7&show_icons=true&title_color=00AEDDFF&text_color=FCFCFC&icon_color=00AEDDFF&bg_color=151515&border_color=FCFCFC&border_radius=8&include_all_commits=true&count_private=true"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=abinx7&background=151515&currStreakNum=FFFFFF&border=FFFFFF&stroke=FFFFFF&ring=00AEDD&fire=00AEDD&sideNums=FFFFFF&currStreakLabel=00AEDD&sideLabels=FFFFFF&dates=FFFFFF"/>
 </p>
 
 
-![PowerOfTG's github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PowerOfTG&layout=compact&theme=radical)
+![PowerOfTG's github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abinx7&layout=compact&theme=radical)
 
 ### Programming Language ⚙️
 ![Python](https://telegra.ph/file/5080f69ba361f95b463e6.jpg)
@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
 
 ### You Can Contact Me At:
 
-<img align="left" alt="PowerOfTG.github.io/PowerOfTG/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<img align="left" alt="abinx7.github.io/abinx7/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <img align="left" alt="djeagler | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 <img align="left" alt="PowerOfTG | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/telegram.svg" />
 <img align="left" alt="sree18522120824 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -92,4 +92,4 @@ You can click the Preview link to take a look at your changes.
 <a href="https://spotify.com/" target="_blank"><img src="https://novatorem.vercel.app/api/spotify" alt="Spotify"></a>
 
 ## 💰 Support Me
-<a href="https://ko-fi.com/PowerOfTG" target="_blank"><img height="40" src="https://az743702.vo.msecnd.net/cdn/kofi3.png"/></a>
+<a href="https://ko-fi.com/abinx7" target="_blank"><img height="40" src="https://az743702.vo.msecnd.net/cdn/kofi3.png"/></a>
