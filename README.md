@@ -23,10 +23,10 @@ You can click the Preview link to take a look at your changes.
 
 ## 💹 Contribution Graph
 
-<a href="https://github.com/abinx7"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abin_x_7&bg_color=20222b&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/abinx7"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abinx7&bg_color=20222b&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
-[![telegram badge](https://img.shields.io/badge/★Movieshub-30302f?style=for-the-badge)](https://t.me/UrvashiTheaters)
+[![telegram badge](https://img.shields.io/badge/★Movieshub-30302f?style=for-the-badge)](https://t.me/Abin_x_7)
 
 
 ![GitHub followers](https://img.shields.io/github/followers/abinx7?style=social)      ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com//abinx7)
