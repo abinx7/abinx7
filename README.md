@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <p><img aling="center"src="https://steamuserimages-a.akamaihd.net/ugc/2431257904741262239/5224F69217562A3C070E381FE3DAC295BCF5C9A8/"/></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abin_x_7&theme=onedark&cache_seconds=86400" alt="Abin_x_7" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abinx7&theme=onedark&cache_seconds=86400" alt="abinx7" /></a> </p>
 
 
 ## A Guy Whos Not Perfect But Working Hard For His Dreams
