@@ -88,7 +88,7 @@
 
 ## 👀 Profile Views
 <p align="left">
-  <img src="https://profile-counter.glitch.me/abinx7/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=abinx7&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 
