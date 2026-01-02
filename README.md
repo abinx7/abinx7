@@ -1,5 +1,5 @@
  
-<h1 align="center">Hi 👋, I'm Abin_x_7🇮🇳</h1>
+<h1 align="center">Hi 👋, I'm Abin Biju</h1>
 <p align="center">
 	<img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif">
 
