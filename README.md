@@ -87,7 +87,10 @@
 ---
 
 ## 👀 Profile Views
-![Visitor Count](https://profile-counter.glitch.me/abinx7/count.svg)
+<p align="left">
+  <img src="https://profile-counter.glitch.me/abinx7/count.svg" />
+</p>
+
 
 ---
 
